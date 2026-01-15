@@ -11,6 +11,9 @@ A 2D survival arcade game built with Python and the Pygame library. This project
 ## 🚀 Installation & Play
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/RC1319/dodge-the-block-python.git](https://github.com/RC1319/dodge-the-block-python.git)
+   git clone https://github.com/RC1319/dodge-the-block-python.git
    pip install pygame
    python game.py
+
+## 🎮 Controls
+* **Arrow Keys**: Move the player left, right to survive.
