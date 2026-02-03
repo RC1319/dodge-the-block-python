@@ -15,5 +15,10 @@ A 2D survival arcade game built with Python and the Pygame library. This project
    pip install pygame
    python game.py
 
+ ## 📸 Screenshots
+
+### Desktop View
+![Game Screenshot](assets/pygame.png)
+
 ## 🎮 Controls
 * **Arrow Keys**: Move the player left, right to survive.
